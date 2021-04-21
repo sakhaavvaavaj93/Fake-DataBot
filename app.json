@@ -8,7 +8,7 @@
         "Bot"
     ],
     "logo": "https://telegra.ph/file/a251cb92f717d021f7fab.jpg",
-    "repository": "https://github.com/Benchamxd/Fake-DataBot",
+    "repository": "https://github.com/sakhaavvaavaj93/Fake-DataBot",
     "success_url": "/bot.php",
     "env": {
         "BOT_TOKEN": {
